@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fortune <img src="https://emoji.slack-edge.com/T02HBS55FCG/cool-doge/aa3c8fd9037a0604.gif" width="28" alt="hi"></h1>
 
-<h2 align="center">A Data Scientist In Training</h2>
+<h2 align="center">A Software Engineer In Training</h2>
 
 
 ## 🌐 Socials:
